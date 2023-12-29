@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "highlight.js": "^11.9.0",
+    "marked": "^10.0.0"
+  },
+  "name": "static-site-generator",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
